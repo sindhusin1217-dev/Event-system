@@ -34,6 +34,4 @@ The College Event Registration System is designed to make the event registration
 event-registration-system/
 │
 ├── app.py
-├── .gitignore
-├── LICENSE
 └── registrations.csv
